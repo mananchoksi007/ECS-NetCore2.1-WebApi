@@ -1,5 +1,7 @@
 ECS Object Client .NET Core Web Api
+
 ECS Object Client .NET is an S3 client that incorporates all the S3 API extensions only available in ECS including metadata search, object updates, retention and more.
+
 
 Installing
 Our .NET Core. Build the project it will install all necessary nuget package to supper ECS web apis.
@@ -7,3 +9,6 @@ Our .NET Core. Build the project it will install all necessary nuget package to 
 Download or clone this repository
 Open .sln file in Visual Studio
 Build solution
+
+Run
+Run the project and hit - http://localhost:15498/swagger/index.html to access the swagger info
